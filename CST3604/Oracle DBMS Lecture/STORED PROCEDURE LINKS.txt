@@ -1,0 +1,2 @@
+Stored Procedures and Cursor Lecture
+https://www.youtube.com/user/TheCodeMakers/search?query=PL%2FSQL
